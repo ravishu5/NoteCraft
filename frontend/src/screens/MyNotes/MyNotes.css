@@ -1,0 +1,10 @@
+.accordion {
+    width: 100%;
+    border-left: 2px solid #F00;
+}
+
+@media only screen and (max-width: 768px) {
+    .note-header{
+        width: 100px;
+    }
+}
